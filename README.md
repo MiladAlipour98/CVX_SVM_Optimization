@@ -1,0 +1,3 @@
+# CVX_SVM_Optimization
+Support Vector Machine (SVM) Optimization and Disciplined Convex Programming (DCP) with CVXPY: Solving SVM Problem, Visualizing Decision Boundary, Exploring Duality, and Understanding Convex Expression Composition.
+This project focuses on solving the support vector machine (SVM) problem. It involves loading training data, solving the SVM problem using CVX with a specified parameter value, visualizing the decision boundary, exploring duality through a modified problem formulation, and investigating different values of the cost parameter to evaluate misclassification error.
